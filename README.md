@@ -13,7 +13,6 @@
 
 ![Top Langs](https://github-readme-stats-taupe-tau-80.vercel.app/api?username=jsir-hsu&show_icons=true&hide=stars)
 
-![Top Langs](https://github-readme-stats-taupe-tau-80.vercel.app/api/top-langs?username=jsir-hsu&card_width=350&layout=compact&hide=html,css,scss)
 
 ---
 
